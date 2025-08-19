@@ -1,0 +1,24 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "Init Project",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanskarprasad/Taskcli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanskarprasad/Taskcli/issues"
+  },
+  "homepage": "https://github.com/sanskarprasad/Taskcli#readme"
+}

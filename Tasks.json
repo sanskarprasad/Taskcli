@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Complete DSA assignment",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "text": "Buy groceries",
+      "status": "todo"
+    },
+    {
+      "id": 4,
+      "text": "Complete assignment",
+      "status": "todo"
+    },
+    {
+      "id": 5,
+      "text": "Go to the gym",
+      "status": "done"
+    },
+    {
+      "id": 7,
+      "text": "Call Mom",
+      "status": "todo"
+    },
+    {
+      "id": 8,
+      "text": "Work on TaskCLI side project",
+      "status": "in-progress"
+    },
+    {
+      "id": 9,
+      "text": "Clean the room",
+      "status": "todo"
+    },
+    {
+      "id": 11,
+      "text": "Prepare presentation",
+      "status": "todo"
+    },
+    {
+      "id": 12,
+      "text": "Water the plants",
+      "status": "todo"
+    }
+  ]
+}
